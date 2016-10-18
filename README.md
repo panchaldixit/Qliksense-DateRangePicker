@@ -25,8 +25,3 @@ Also at Calendar Settings can choose all language locales that moment.js support
 
 #### 1.1.0
  * Improved text update
-
-
-
-### TODO
- * add user defined ranges past 6 or 12 months, etc?
