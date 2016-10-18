@@ -8,6 +8,8 @@ Also at Calendar Settings can choose all language locales that moment.js support
 
 
 ![preview](https://raw.githubusercontent.com/NOD507/SenseDateRangePicker/master/dateRangePicker.gif) 
+#### 1.1.4
+* Fixed out of problem and add more flag of calendar
 
 #### 1.1.4
  * fixed out of screen presentation issue when the daterangepicker was set on the left of the screen
